@@ -6,7 +6,7 @@ import flow from './flow'
 const systemRouter = {
   path: '/system',
   component: Layout,
-  redirect: '/system/permission',
+  redirect: '/system/permission/group',
   name: 'system',
   meta: {
     title: '系统设置',
